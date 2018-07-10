@@ -1,2 +1,2 @@
 # helloworld a classic project for beginners
-otra actualizacin mas
+otra actualizacion mas
